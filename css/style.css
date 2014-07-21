@@ -188,23 +188,7 @@ header{
 	padding-top:85px ;
 	padding-bottom:90px ;
 }
-.headerstrip { 
-    height:4px; 
-    text-indent:-99999px; 
-    display:block; 
-    overflow:hidden; 
-    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2); 
-    -moz-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2); 
-    -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2); 
-    margin-bottom:20px;
-}
-.spiral {
-    width:920px; 
-    height:90px ; 
-    background:  url(../images/spiral.png) repeat-x scroll 0 0; 
-    position:absolute; 
-    top:9px;
-}
+
 .bntDownload{
 	font-size:16px;
 	font-family: 'Open Sans', sans-serif;
