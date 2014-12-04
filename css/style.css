@@ -1023,7 +1023,7 @@ border-top-left-radius: 5px;
 		.srv-block1 p, .srv-block2 p, .srv-block3 p, .srv-block4 p { height:auto; }
 		.srv-block1 p, .srv-block2 p, .srv-block3 p { margin-bottom: 15px; }
 		.srv-block4 p { margin-bottom: 0px; }
-		.srv-block3 h4, .srv-block4 h4 { margin: 15px 0 15px 0; }
+/*		.srv-block3 h4, .srv-block4 h4 { margin: 15px 0 15px 0; }*/
 }
 
 
